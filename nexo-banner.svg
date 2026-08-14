@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Fabio7X AI — NEXO-7</title>
+  <desc id="desc">Banner animado de inteligência artificial para o perfil Fabio7X</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070713"/><stop offset=".54" stop-color="#161039"/><stop offset="1" stop-color="#071b2a"/></linearGradient>
+    <linearGradient id="pink" x1="0" x2="1"><stop stop-color="#ff3e67"/><stop offset="1" stop-color="#ff9ab2"/></linearGradient>
+    <linearGradient id="cyan" x1="0" x2="1"><stop stop-color="#00d9ff"/><stop offset="1" stop-color="#92f7ff"/></linearGradient>
+    <pattern id="grid" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M38 0H0V38" fill="none" stroke="#00d9ff" stroke-opacity=".12"/></pattern>
+    <filter id="glowPink"><feGaussianBlur stdDeviation="7" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="glowCyan"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>
+      .mono{font-family:'Courier New',monospace}.orbit{transform-origin:600px 177px;animation:orbit 11s linear infinite}.orbit2{transform-origin:600px 177px;animation:orbit2 15s linear infinite}.pulse{transform-origin:600px 177px;animation:pulse 2.8s ease-in-out infinite}.blink{animation:blink 1.2s steps(2,end) infinite}.scan{animation:scan 4s ease-in-out infinite}@keyframes orbit{to{transform:rotate(360deg)}}@keyframes orbit2{to{transform:rotate(-360deg)}}@keyframes pulse{50%{opacity:.35;transform:scale(.86)}}@keyframes blink{50%{opacity:.32}}@keyframes scan{0%,100%{transform:translateX(-380px);opacity:0}18%,82%{opacity:.88}50%{transform:translateX(380px)}}
+    </style>
+  </defs>
+  <rect width="1200" height="330" rx="24" fill="url(#bg)"/>
+  <rect x="20" y="20" width="1160" height="290" rx="18" fill="url(#grid)"/>
+  <circle cx="84" cy="-14" r="150" fill="#a662ff" opacity=".14" class="pulse"/><circle cx="1114" cy="304" r="185" fill="#00d9ff" opacity=".1" class="pulse"/>
+  <g fill="none" stroke-width="2" opacity=".55"><ellipse class="orbit" cx="600" cy="177" rx="410" ry="104" stroke="#00d9ff"/><ellipse class="orbit2" cx="600" cy="177" rx="360" ry="78" stroke="#ff3e67" transform="rotate(25 600 177)"/></g>
+  <g transform="translate(92 80)"><rect width="134" height="134" rx="28" fill="#0a0b20" stroke="url(#cyan)" stroke-width="3" filter="url(#glowCyan)"/><rect x="27" y="27" width="80" height="80" rx="20" fill="#131042" stroke="#00d9ff" stroke-opacity=".6"/><path d="M43 67c16-30 35-20 44 0-8 20-28 28-44 0Z" fill="none" stroke="url(#pink)" stroke-width="5"/><circle cx="67" cy="67" r="8" fill="#ff3e67" filter="url(#glowPink)"/><path d="M57 116h20" stroke="#eafaff" stroke-width="5" stroke-linecap="round"/></g>
+  <g transform="translate(975 91)"><rect width="122" height="98" rx="16" fill="#0a0b20" stroke="#ff3e67" stroke-width="2"/><text x="61" y="31" fill="#8cf4ff" font-size="11" text-anchor="middle" letter-spacing="3" class="mono">SYSTEM</text><text x="61" y="61" fill="#f7f6ff" font-size="18" font-weight="700" text-anchor="middle" class="mono">ONLINE</text><circle cx="32" cy="78" r="5" fill="#9cff57" class="blink"/><text x="46" y="82" fill="#a9f8ce" font-size="10" class="mono">READY</text></g>
+  <g text-anchor="middle" class="mono"><text x="600" y="95" fill="#8df4ff" font-size="15" font-weight="700" letter-spacing="7">// CRIAÇÃO · ESTRATÉGIA · CÓDIGO</text><text x="600" y="166" fill="#f7f6ff" font-size="63" font-weight="900" letter-spacing="-3">FABIO7X</text><text x="600" y="232" fill="url(#pink)" filter="url(#glowPink)" font-size="70" font-weight="900" letter-spacing="-3">AI / NEXO-7</text><text x="600" y="270" fill="#00d9ff" font-size="13" font-weight="700" letter-spacing="4">THINK<tspan class="blink">_</tspan>CREATE<tspan class="blink">_</tspan>SHIP</text></g>
+  <rect class="scan" x="420" y="45" width="360" height="2" rx="1" fill="url(#cyan)" filter="url(#glowCyan)"/>
+</svg>

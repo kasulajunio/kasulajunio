@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-label="NEXO-7 animated mark">
+  <defs>
+    <radialGradient id="core"><stop stop-color="#ff7799"/><stop offset=".43" stop-color="#7d3fff"/><stop offset="1" stop-color="#0a0b22"/></radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <style>.r{transform-origin:80px 80px;animation:r 8s linear infinite}.r2{transform-origin:80px 80px;animation:r2 11s linear infinite}.p{transform-origin:80px 80px;animation:p 2.4s ease-in-out infinite}@keyframes r{to{transform:rotate(360deg)}}@keyframes r2{to{transform:rotate(-360deg)}}@keyframes p{50%{opacity:.38;transform:scale(.86)}}</style>
+  </defs>
+  <rect width="160" height="160" rx="36" fill="#090a1b"/>
+  <circle cx="80" cy="80" r="55" fill="none" stroke="#00d9ff" stroke-opacity=".45" class="r"/><ellipse cx="80" cy="80" rx="58" ry="24" fill="none" stroke="#ff3e67" stroke-opacity=".65" class="r2"/>
+  <rect x="47" y="47" width="66" height="66" rx="18" fill="url(#core)" stroke="#90f7ff" stroke-width="2" filter="url(#glow)" class="p"/><path d="M62 82c10-19 24-18 35 0-9 19-25 18-35 0Z" fill="none" stroke="#fff" stroke-width="4"/><circle cx="80" cy="82" r="6" fill="#ff3e67"/><text x="114" y="120" fill="#ff92ae" font-family="monospace" font-size="22" font-weight="bold">7</text>
+</svg>
