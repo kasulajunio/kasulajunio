@@ -5,7 +5,7 @@
 # 🕹️ Fabio7X AI
 ### Criador Digital · Desenvolvedor Web · Game Maker · IA Criativa
 
-[![Falar com a IA NEXO-7](https://img.shields.io/badge/FALAR_COM_NEXO--7-ff3e67?style=for-the-badge&logo=googlegemini&logoColor=white)](https://fabiodigi-pr7pfynb.manus.space/#nexo)
+[![Falar com a IA NEXO-7](https://img.shields.io/badge/FALAR_COM_NEXO--7-ff3e67?style=for-the-badge&logo=googlegemini&logoColor=white)](https://fabioai7x-43rgqwfj.manus.space/)
 [![Abrir o arcade](https://img.shields.io/badge/ABRIR_ARCADE-ff3e67?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kasulajunio.github.io/)
 [![Kit Custom](https://img.shields.io/badge/KIT_CUSTOM-R%24_149-9b5cff?style=for-the-badge&logo=gamepad&logoColor=white)](https://kasulajunio.github.io/mini-game-kit-custom.html)
 [![Site Launch Lite](https://img.shields.io/badge/SITE_LITE-R%24_249-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=07121b)](https://kasulajunio.github.io/site-launch-lite.html)
@@ -27,7 +27,7 @@
 - **Criação:** Textos, roteiros e conceitos visuais.
 - **Desenvolvimento:** Estrutura de código e lógica de interface.
 
-[**Conversar com NEXO-7 agora →**](https://fabiodigi-pr7pfynb.manus.space/#nexo)
+[**Conversar com NEXO-7 agora →**](https://fabioai7x-43rgqwfj.manus.space/)
 </div>
 
 ---
@@ -97,3 +97,19 @@ Transformo o navegador em uma sala de arcade. Experiências rápidas, leves e ot
 <sub>Fabio7X Digital · Porto Seguro, Bahia, Brasil</sub>
 
 </div>
+
+
+---
+
+## 🧭 Mapa oficial do ecossistema Fabio7X
+
+| Área | Projeto | Link público | Código |
+| --- | --- | --- | --- |
+| Hub | F7X Arcade | [Abrir](https://kasulajunio.github.io/) | [kasulajunio.github.io](https://github.com/kasulajunio/kasulajunio.github.io) |
+| Inteligência artificial | NEXO-7 | [Abrir](https://fabioai7x-43rgqwfj.manus.space/) | [Fabio7X AI Studio](https://github.com/kasulajunio/kasulajunio) |
+| Jogos | Fabio7X IO Games | [Jogar](https://kasulajunio.github.io/fabio7x-io-games/) | [fabio7x-io-games](https://github.com/kasulajunio/fabio7x-io-games) |
+| Estúdio | F7X Digital | [Abrir](https://kasulajunio.github.io/f7x-digital/) | [f7x-digital](https://github.com/kasulajunio/f7x-digital) |
+| Código aberto | Mini Game Kit | [Abrir](https://kasulajunio.github.io/fabio7x-mini-game-kit/) | [fabio7x-mini-game-kit](https://github.com/kasulajunio/fabio7x-mini-game-kit) |
+| Biblioteca Go | TCG Storage | — | [go-tcg-storage](https://github.com/open-source-firmware/go-tcg-storage) |
+
+A regra de organização é simples: o **hub** apresenta, o **NEXO-7** coordena, os repositórios de jogos executam, o **F7X Digital** apresenta serviços e o **Mini Game Kit** concentra código reutilizável. Os links antigos continuam preservados nos respectivos sites para não quebrar acessos existentes.
