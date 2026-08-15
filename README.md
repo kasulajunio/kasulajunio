@@ -12,6 +12,7 @@
   <a href="https://kasulajunio.github.io/f7x-digital/"><img src="https://img.shields.io/badge/F7X_DIGITAL-9b5cff?style=for-the-badge&logo=codeforces&logoColor=white" alt="F7X Digital" /></a>
   <a href="https://kasulajunio.github.io/fabio7x-io-games/"><img src="https://img.shields.io/badge/IO_GAMES-00d9ff?style=for-the-badge&logo=gamepad&logoColor=07121b" alt="IO Games" /></a>
   <a href="https://kasulajunio.github.io/fabio7x-mini-game-kit/"><img src="https://img.shields.io/badge/MINI_GAME_KIT-9b5cff?style=for-the-badge&logo=github&logoColor=white" alt="Abrir o Mini Game Kit" /></a>
+  <a href="https://www.instagram.com/fabio_do_fut/"><img src="https://img.shields.io/badge/INSTAGRAM_%40FABIO__DO__FUT-ff3e67?style=for-the-badge&logo=instagram&logoColor=white" alt="Seguir @fabio_do_fut no Instagram" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=kasulajunio&style=flat-square&color=ff3e67" alt="Visualizações do perfil" />
