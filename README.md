@@ -8,6 +8,7 @@
 [![Falar com a IA NEXO-7](https://img.shields.io/badge/FALAR_COM_NEXO--7-ff3e67?style=for-the-badge&logo=googlegemini&logoColor=white)](https://fabiodigi-pr7pfynb.manus.space/#nexo)
 [![Abrir o arcade](https://img.shields.io/badge/ABRIR_ARCADE-ff3e67?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kasulajunio.github.io/)
 [![Kit Custom](https://img.shields.io/badge/KIT_CUSTOM-R%24_149-9b5cff?style=for-the-badge&logo=gamepad&logoColor=white)](https://kasulajunio.github.io/mini-game-kit-custom.html)
+[![Site Launch Lite](https://img.shields.io/badge/SITE_LITE-R%24_249-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=07121b)](https://kasulajunio.github.io/site-launch-lite.html)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-ff3e67?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabio_do_fut/)
 
 <img src="https://komarev.com/ghpvc/?username=kasulajunio&style=flat-square&color=ff3e67" alt="Visualizações do perfil" />
@@ -52,6 +53,12 @@ Transformo o navegador em uma sala de arcade. Experiências rápidas, leves e ot
 **Fabio7X Mini Game Kit Custom** é uma personalização de uma mecânica de reflexo, desvio ou memória para projetos, eventos e portfólios. A edição de lançamento custa **R$ 149**, inclui identidade visual, tela inicial, placar local e uma rodada de ajustes. O Mini Game Kit open source e a demo continuam gratuitos.
 
 [**Conhecer escopo, entrega e condições →**](https://kasulajunio.github.io/mini-game-kit-custom.html)
+
+## ◇ // Lance sua presença digital
+
+**Fabio7X Site Launch Lite** é uma landing page mobile para apresentar um projeto, serviço ou portfólio. A edição de lançamento custa **R$ 249**, inclui identidade visual básica, seções de apresentação, projetos ou serviços, CTA de contato e uma rodada de ajustes.
+
+[**Conhecer Site Launch Lite →**](https://kasulajunio.github.io/site-launch-lite.html)
 
 ---
 
