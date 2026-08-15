@@ -12,7 +12,7 @@
   <a href="https://kasulajunio.github.io/f7x-digital/"><img src="https://img.shields.io/badge/F7X_DIGITAL-9b5cff?style=for-the-badge&logo=codeforces&logoColor=white" alt="F7X Digital" /></a>
   <a href="https://kasulajunio.github.io/fabio7x-io-games/"><img src="https://img.shields.io/badge/IO_GAMES-00d9ff?style=for-the-badge&logo=gamepad&logoColor=07121b" alt="IO Games" /></a>
   <a href="https://kasulajunio.github.io/fabio7x-mini-game-kit/"><img src="https://img.shields.io/badge/MINI_GAME_KIT-9b5cff?style=for-the-badge&logo=github&logoColor=white" alt="Abrir o Mini Game Kit" /></a>
-  <a href="https://fabiodigi-pr7pfynb.manus.space/arcade"><img src="https://img.shields.io/badge/NEXO_RIFT_RUNNER-00d9ff?style=for-the-badge&logo=gamepad&logoColor=07121b" alt="Jogar NEXO Rift Runner" /></a>
+  <a href="https://fabiodigi-pr7pfynb.manus.space/#arcade"><img src="https://img.shields.io/badge/NEXO_RIFT_RUNNER-00d9ff?style=for-the-badge&logo=gamepad&logoColor=07121b" alt="Jogar NEXO Rift Runner" /></a>
   <a href="https://www.instagram.com/fabio_do_fut/"><img src="https://img.shields.io/badge/INSTAGRAM_%40FABIO__DO__FUT-ff3e67?style=for-the-badge&logo=instagram&logoColor=white" alt="Seguir @fabio_do_fut no Instagram" /></a>
 </p>
 
@@ -49,7 +49,7 @@ Meu perfil agora funciona como uma pequena sala de arcade. Os jogos rodam no [Fa
 | **Pixel Dodge** | Desvie dos fragmentos usando teclado ou toque. | [Jogar agora](https://kasulajunio.github.io/#arcade) |
 | **Memory Pulse** | Encontre os oito pares com o menor número de movimentos. | [Jogar agora](https://kasulajunio.github.io/#arcade) |
 | **Mini Game Kit** | Três mecânicas em JavaScript puro para estudar, adaptar e publicar. | [Abrir a demo](https://kasulajunio.github.io/fabio7x-mini-game-kit/) |
-| **NEXO Rift Runner** | Corrida 3D cyberpunk para celular: colete núcleos, evite drones e use impulso para atravessar a pista orbital. | [Jogar agora](https://fabiodigi-pr7pfynb.manus.space/arcade) |
+| **NEXO Rift Runner** | Corrida 3D cyberpunk para celular: colete núcleos, evite drones e use impulso para atravessar a pista orbital. | [Jogar agora](https://fabiodigi-pr7pfynb.manus.space/#arcade) |
 
 <div align="center">
 
@@ -66,7 +66,7 @@ Meu perfil agora funciona como uma pequena sala de arcade. Os jogos rodam no [Fa
 | **Fabio7X IO Games** | Plataforma com jogos rápidos para jogar diretamente no navegador. | [Abrir a arena](https://kasulajunio.github.io/fabio7x-io-games/) |
 | **Fabio7X Hub** | Página central com portfólio, arcade, experiências e novidades. | [Visitar o hub](https://kasulajunio.github.io/) |
 | **Fabio7X Mini Game Kit** | Kit open source com Neon Reflex, Pixel Dodge e Memory Pulse. | [Ver demo e código](https://github.com/kasulajunio/fabio7x-mini-game-kit) |
-| **NEXO Rift Runner** | Novo arcade 3D em navegador, criado para toque, teclado e compartilhamento por link. | [Entrar na pista](https://fabiodigi-pr7pfynb.manus.space/arcade) |
+| **NEXO Rift Runner** | Novo arcade 3D em navegador, criado para toque, teclado e compartilhamento por link. | [Entrar na pista](https://fabiodigi-pr7pfynb.manus.space/#arcade) |
 | **go-tcg-storage** | Biblioteca open source em Go para comunicação com funções de armazenamento. | [Ver repositório](https://github.com/kasulajunio/go-tcg-storage) |
 
 ## // Stack e áreas
