@@ -11,6 +11,7 @@
   <a href="https://kasulajunio.github.io/"><img src="https://img.shields.io/badge/ABRIR_ARCADE-ff3e67?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Abrir o arcade" /></a>
   <a href="https://kasulajunio.github.io/f7x-digital/"><img src="https://img.shields.io/badge/F7X_DIGITAL-9b5cff?style=for-the-badge&logo=codeforces&logoColor=white" alt="F7X Digital" /></a>
   <a href="https://kasulajunio.github.io/fabio7x-io-games/"><img src="https://img.shields.io/badge/IO_GAMES-00d9ff?style=for-the-badge&logo=gamepad&logoColor=07121b" alt="IO Games" /></a>
+  <a href="https://kasulajunio.github.io/fabio7x-mini-game-kit/"><img src="https://img.shields.io/badge/MINI_GAME_KIT-9b5cff?style=for-the-badge&logo=github&logoColor=white" alt="Abrir o Mini Game Kit" /></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=kasulajunio&style=flat-square&color=ff3e67" alt="Visualizações do perfil" />
@@ -45,6 +46,7 @@ Meu perfil agora funciona como uma pequena sala de arcade. Os jogos rodam no [Fa
 | **Neon Reflex** | Clique no alvo luminoso o máximo de vezes em 15 segundos. | [Jogar agora](https://kasulajunio.github.io/#arcade) |
 | **Pixel Dodge** | Desvie dos fragmentos usando teclado ou toque. | [Jogar agora](https://kasulajunio.github.io/#arcade) |
 | **Memory Pulse** | Encontre os oito pares com o menor número de movimentos. | [Jogar agora](https://kasulajunio.github.io/#arcade) |
+| **Mini Game Kit** | Três mecânicas em JavaScript puro para estudar, adaptar e publicar. | [Abrir a demo](https://kasulajunio.github.io/fabio7x-mini-game-kit/) |
 
 <div align="center">
 
@@ -60,6 +62,7 @@ Meu perfil agora funciona como uma pequena sala de arcade. Os jogos rodam no [Fa
 | **F7X Digital** | Hub de serviços e soluções digitais para sites, marcas e projetos criativos. | [Entrar no estúdio](https://kasulajunio.github.io/f7x-digital/) |
 | **Fabio7X IO Games** | Plataforma com jogos rápidos para jogar diretamente no navegador. | [Abrir a arena](https://kasulajunio.github.io/fabio7x-io-games/) |
 | **Fabio7X Hub** | Página central com portfólio, arcade, experiências e novidades. | [Visitar o hub](https://kasulajunio.github.io/) |
+| **Fabio7X Mini Game Kit** | Kit open source com Neon Reflex, Pixel Dodge e Memory Pulse. | [Ver demo e código](https://github.com/kasulajunio/fabio7x-mini-game-kit) |
 | **go-tcg-storage** | Biblioteca open source em Go para comunicação com funções de armazenamento. | [Ver repositório](https://github.com/kasulajunio/go-tcg-storage) |
 
 ## // Stack e áreas
