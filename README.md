@@ -9,6 +9,7 @@
   <p><strong>IA criativa · jogos de navegador · experiências digitais</strong></p>
 
   <a href="https://fabiodigi-pr7pfynb.manus.space/#nexo"><img src="https://img.shields.io/badge/ABRIR_NEXO--7-FF3E67?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Abrir NEXO-7" /></a>
+  <a href="https://kasulajunio.github.io/terminal-animacoes/"><img src="https://img.shields.io/badge/ABRIR_MOTION%2F%2FLAB-F5B942?style=for-the-badge&logo=googlechrome&logoColor=07121b" alt="Abrir Motion Lab" /></a>
   <a href="https://kasulajunio.github.io/#arcade"><img src="https://img.shields.io/badge/EXPLORAR_ARCADE-9B5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explorar Arcade" /></a>
   <a href="https://www.instagram.com/fabio_do_fut/"><img src="https://img.shields.io/badge/ACOMPANHAR_NO_INSTAGRAM-00D9FF?style=for-the-badge&logo=instagram&logoColor=07121b" alt="Acompanhar no Instagram" /></a>
 
@@ -23,6 +24,7 @@
 | Quero… | Abrir | O que encontro |
 | --- | --- | --- |
 | Transformar uma ideia em projeto | [**NEXO-7 →**](https://fabiodigi-pr7pfynb.manus.space/#nexo) | Assistente de IA para estratégia, conteúdo, código e próximos passos. |
+| Criar animações com código | [**MOTION//LAB →**](https://kasulajunio.github.io/terminal-animacoes/) | Terminal visual no navegador para escrever comandos e ver movimento no palco. |
 | Jogar agora no navegador | [**Fabio7X Arcade →**](https://kasulajunio.github.io/#arcade) | Mini jogos gratuitos, mobile-first e compartilháveis. |
 | Estudar mecânicas de jogos | [**Mini Game Kit →**](https://github.com/kasulajunio/fabio7x-mini-game-kit) | Código aberto para aprender, adaptar e criar. |
 | Conhecer experiências web | [**F7X Digital →**](https://kasulajunio.github.io/f7x-digital/) | Landing pages, sites e projetos digitais. |
