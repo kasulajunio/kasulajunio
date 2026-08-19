@@ -81,7 +81,7 @@ As demos e o código aberto continuam gratuitos. As opções abaixo têm escopo 
 ## SINAL EM MOVIMENTO
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kasulajunio/kasulajunio/output/github-contribution-grid-snake.svg" alt="Animação das contribuições do perfil" />
+  <img src="https://raw.githubusercontent.com/kasulajunio/kasulajunio/output/github-contribution-grid-snake-dark.svg" alt="Animação neon das contribuições do perfil" />
 </div>
 
 ---
