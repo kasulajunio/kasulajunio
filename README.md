@@ -8,7 +8,7 @@
   <h1>FABIO<span style="color:#FF3E67">7X</span> <sub>AI</sub></h1>
   <p><strong>IA criativa · jogos de navegador · experiências digitais</strong></p>
 
-  <a href="https://fabiodigi-pr7pfynb.manus.space/#nexo"><img src="https://img.shields.io/badge/ABRIR_NEXO--7-FF3E67?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Abrir NEXO-7" /></a>
+  <a href="https://fabiodig-pr7pfynb.manus.space/#nexo"><img src="https://img.shields.io/badge/ABRIR_NEXO--7-FF3E67?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Abrir NEXO-7" /></a>
   <a href="https://kasulajunio.github.io/terminal-animacoes/"><img src="https://img.shields.io/badge/ABRIR_MOTION%2F%2FLAB-F5B942?style=for-the-badge&logo=googlechrome&logoColor=07121b" alt="Abrir Motion Lab" /></a>
   <a href="https://kasulajunio.github.io/#arcade"><img src="https://img.shields.io/badge/EXPLORAR_ARCADE-9B5CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explorar Arcade" /></a>
   <a href="https://www.instagram.com/fabio_do_fut/"><img src="https://img.shields.io/badge/ACOMPANHAR_NO_INSTAGRAM-00D9FF?style=for-the-badge&logo=instagram&logoColor=07121b" alt="Acompanhar no Instagram" /></a>
@@ -23,11 +23,13 @@
 
 | Quero… | Abrir | O que encontro |
 | --- | --- | --- |
-| Transformar uma ideia em projeto | [**NEXO-7 →**](https://fabiodigi-pr7pfynb.manus.space/#nexo) | Assistente de IA para estratégia, conteúdo, código e próximos passos. |
+| Transformar uma ideia em projeto | [**NEXO-7 →**](https://fabiodig-pr7pfynb.manus.space/#nexo) | Assistente de IA para estratégia, conteúdo, código e próximos passos. |
 | Criar animações com código | [**MOTION//LAB →**](https://kasulajunio.github.io/terminal-animacoes/) | Terminal visual no navegador para escrever comandos e ver movimento no palco. |
 | Jogar agora no navegador | [**Fabio7X Arcade →**](https://kasulajunio.github.io/#arcade) | Mini jogos gratuitos, mobile-first e compartilháveis. |
 | Estudar mecânicas de jogos | [**Mini Game Kit →**](https://github.com/kasulajunio/fabio7x-mini-game-kit) | Código aberto para aprender, adaptar e criar. |
 | Conhecer experiências web | [**F7X Digital →**](https://kasulajunio.github.io/f7x-digital/) | Landing pages, sites e projetos digitais. |
+| Ler a documentação técnica | [**Kasula Docs →**](https://github.com/kasulajunio/kasula-docs) | Documentação completa da plataforma — API, guias e help center. |
+| Ferramentas gratuitas para devs | [**Awesome Tools →**](https://github.com/kasulajunio/awesome-free-developer-tools) | 200+ ferramentas gratuitas curadas para desenvolvedores. |
 
 ---
 
@@ -36,7 +38,7 @@
 | Projeto | Status | Atalho |
 | --- | --- | --- |
 | **NEXO Rift Runner** | Corrida 3D cyberpunk com toque e teclado. | [Jogar grátis →](https://kasulajunio.github.io/nexo-rift-runner.html) |
-| **NEXO Idea Sprint** | Um caminho guiado para sair da ideia parada. | [Experimentar →](https://fabiodigi-pr7pfynb.manus.space/#nexo) |
+| **NEXO Idea Sprint** | Um caminho guiado para sair da ideia parada. | [Experimentar →](https://fabiodig-pr7pfynb.manus.space/#nexo) |
 | **Neon Reflex & Pixel Dodge** | Desafios rápidos de reflexo e sobrevivência. | [Abrir jogos →](https://kasulajunio.github.io/#arcade) |
 
 ---
@@ -49,6 +51,8 @@
 | **Jogos** | [fabio7x-io-games](https://github.com/kasulajunio/fabio7x-io-games) | Coleção de jogos rápidos para navegador. |
 | **Código aberto** | [fabio7x-mini-game-kit](https://github.com/kasulajunio/fabio7x-mini-game-kit) | Base para mecânicas neon e contribuições. |
 | **Estúdio** | [f7x-digital](https://github.com/kasulajunio/f7x-digital) | Portfólio de experiências web e presença digital. |
+| **Documentação** | [kasula-docs](https://github.com/kasulajunio/kasula-docs) | Documentação completa da plataforma Kasula. |
+| **Ferramentas** | [awesome-free-developer-tools](https://github.com/kasulajunio/awesome-free-developer-tools) | 200+ ferramentas gratuitas para devs. |
 
 <details>
 <summary><strong>Projetos sob medida — escopos aprovados</strong></summary>
