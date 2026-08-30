@@ -30,6 +30,8 @@
 | Conhecer experiências web | [**F7X Digital →**](https://kasulajunio.github.io/f7x-digital/) | Landing pages, sites e projetos digitais. |
 | Ler a documentação técnica | [**Kasula Docs →**](https://github.com/kasulajunio/kasula-docs) | Documentação completa da plataforma — API, guias e help center. |
 | Ferramentas gratuitas para devs | [**Awesome Tools →**](https://github.com/kasulajunio/awesome-free-developer-tools) | 200+ ferramentas gratuitas curadas para desenvolvedores. |
+| Scripts prontos pra Termux | [**Termux Toolkit →**](https://github.com/kasulajunio/termux-dev-toolkit) | 10+ scripts de automação, rede, segurança e produtividade. 🇧🇷 |
+| Aprender hacking ético | [**Guia Hacking Ético →**](https://github.com/kasulajunio/guia-hacking-etico) | Guia completo de segurança ofensiva em português. |
 
 ---
 
@@ -53,6 +55,8 @@
 | **Estúdio** | [f7x-digital](https://github.com/kasulajunio/f7x-digital) | Portfólio de experiências web e presença digital. |
 | **Documentação** | [kasula-docs](https://github.com/kasulajunio/kasula-docs) | Documentação completa da plataforma Kasula. |
 | **Ferramentas** | [awesome-free-developer-tools](https://github.com/kasulajunio/awesome-free-developer-tools) | 200+ ferramentas gratuitas para devs. |
+| **Termux** | [termux-dev-toolkit](https://github.com/kasulajunio/termux-dev-toolkit) | Scripts prontos para Termux e Linux. 🔥 |
+| **Segurança** | [guia-hacking-etico](https://github.com/kasulajunio/guia-hacking-etico) | Guia de hacking ético em português. |
 
 <details>
 <summary><strong>Projetos sob medida — escopos aprovados</strong></summary>
@@ -76,7 +80,7 @@ As demos e o código aberto continuam gratuitos. As opções abaixo têm escopo 
   <img height="158" src="https://github-readme-stats.vercel.app/api?username=kasulajunio&show_icons=true&theme=radical&hide_border=true&title_color=FF3E67&icon_color=00D9FF&bg_color=0D1117" alt="Estatísticas do GitHub" />
   <img height="158" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasulajunio&layout=compact&theme=radical&hide_border=true&title_color=FF3E67&icon_color=00D9FF&bg_color=0D1117" alt="Linguagens mais usadas" />
   <br /><br />
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,go,git,github,figma,ps" alt="HTML, CSS, JavaScript, TypeScript, React, Go, Git, GitHub, Figma e Photoshop" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,go,python,bash,git,github,figma,ps" alt="Stack" />
 </div>
 </details>
 
