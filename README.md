@@ -1,16 +1,39 @@
-# Fabio7X\n\nCriador brasileiro de projetos **mobile-first**: ferramentas para Termux, documentação em português, produtos web leves e uso responsável de IA.\n\n> Construo coisas simples de abrir, claras de entender e honestas sobre seus limites.\n\n## Em foco\n\n- Ferramentas úteis para Android, Termux e web\n- Segurança defensiva e aprendizagem autorizada\n- Documentação prática em português\n- Produtos locais e experiências acessíveis pelo celular\n\n## Projetos em destaque\n\n- [Guia Hacking Ético](https://github.com/kasulajunio/guia-hacking-etico)  \n  Curadoria defensiva em português, com fontes e material estruturado.\n\n- [Termux Dev Toolkit](https://github.com/kasulajunio/termux-dev-toolkit)  \n  Scripts práticos para Termux e Linux. Use somente em dispositivos e redes autorizados.\n\n- [Coroa Viva](https://github.com/kasulajunio/coroa-viva)  \n  Guia local em evolução para Coroa Vermelha e Porto Seguro.\n\n- [Ponto de IA](https://github.com/kasulajunio/ponto-de-ia)  \n  Painel mobile-first para organizar tarefas, fontes, prompts e decisões de IA com privacidade.\n\n## Princípios\n\n- Mobile-first, sem exigir computador\n- Privacidade e transparência antes de promessa\n- Código e documentação claros\n- IA como ferramenta, nunca como enfeite\n\n## Perfil\n\n- GitHub: [@kasulajunio](https://github.com/kasulajunio)\n- Projetos em português do Brasil\n- Em evolução, com testes e documentação reais## Hi there 👋
+# Fabio7X
 
-<!--
-**kasulajunio/kasulajunio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Criador brasileiro de projetos **mobile-first**: ferramentas para Termux, documentação em português, produtos web leves e uso responsável de IA.
 
-Here are some ideas to get you started:
+> Construo coisas simples de abrir, claras de entender e honestas sobre seus limites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Em foco
+
+- Ferramentas úteis para Android, Termux e web
+- Segurança defensiva e aprendizagem autorizada
+- Documentação prática em português
+- Produtos locais e experiências acessíveis pelo celular
+
+## Projetos em destaque
+
+- [Guia Hacking Ético](https://github.com/kasulajunio/guia-hacking-etico)  
+  Curadoria defensiva em português, com fontes e material estruturado.
+
+- [Termux Dev Toolkit](https://github.com/kasulajunio/termux-dev-toolkit)  
+  Scripts práticos para Termux e Linux. Use somente em dispositivos e redes autorizados.
+
+- [Coroa Viva](https://github.com/kasulajunio/coroa-viva)  
+  Guia local em evolução para Coroa Vermelha e Porto Seguro.
+
+- [Ponto de IA](https://github.com/kasulajunio/ponto-de-ia)  
+  Painel mobile-first para organizar tarefas, fontes, prompts e decisões de IA com privacidade.
+
+## Princípios
+
+- Mobile-first, sem exigir computador
+- Privacidade e transparência antes de promessa
+- Código e documentação claros
+- IA como ferramenta, nunca como enfeite
+
+## Perfil
+
+- GitHub: [@kasulajunio](https://github.com/kasulajunio)
+- Projetos em português do Brasil
+- Em evolução, com testes e documentação reais
