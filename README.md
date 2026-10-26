@@ -1,1 +1,39 @@
-# Fabio7X\n\n> Projetos mobile-first, automação local e segurança aplicada, feitos para serem úteis de verdade.\n\nOlá, eu sou **Fabio**. Crio experiências digitais em português, com foco em interfaces diretas, soluções locais e aprendizado prático. Gosto de transformar ideias grandes em projetos que funcionam no celular, sem maquiagem técnica desnecessária.\n\n## Em construção\n\n| Área | Foco atual | Princípio |\n|---|---|---|\n| Segurança defensiva | Estudos, laboratórios e documentação de boas práticas | Somente em ambientes autorizados |\n| Automação mobile | Ferramentas locais para Android e Termux | Privacidade e controle do usuário |\n| IA aplicada | Organização, protótipos e fluxos assistidos por IA | Clareza antes de complexidade |\n| Jogos e experiências web | Projetos acessíveis em navegador e dispositivos móveis | Criar, testar, melhorar |\n\n## Segurança responsável\n\nEstou estruturando um **framework educacional de reconhecimento de superfície de ataque** para CTFs, laboratórios próprios e auditorias formalmente autorizadas. A proposta é estudar uma cadeia organizada de análise:\n\n```text\nEscopo autorizado\n      ↓\nDescoberta de ativos\n      ↓\nInventário de serviços\n      ↓\nAnálise de exposição\n      ↓\nRelatório e correção\n```\n\nO objetivo é converter dados técnicos em achados compreensíveis, priorizando evidências, relatórios estruturados e recomendações de correção. Não inclui exploração, brute force ou operação contra sistemas sem autorização explícita.\n\n**Princípios do projeto**\n\n- Escopo, permissão e limites definidos antes de qualquer teste\n- Arquitetura modular para estudo e evolução responsável\n- Saída estruturada em JSON para facilitar análise e relatórios\n- Logs claros, tratamento de erros e resultados reproduzíveis\n- Foco em redução de risco, não em causar impacto\n\n## Projetos em destaque\n\n| Projeto | O que é |\n|---|---|\n| [Guia de Hacking Ético](https://github.com/kasulajunio/guia-hacking-etico) | Curadoria em português de ferramentas e práticas de segurança defensiva |\n| [Laboratórios SQL Seguros](https://github.com/kasulajunio/laboratorios-sql-seguros) | Laboratórios didáticos voltados à prevenção de SQL Injection |\n| [Termux Dev Toolkit](https://github.com/kasulajunio/termux-dev-toolkit) | Scripts e automações para Termux e Linux, com documentação em português |\n| [Ponto de IA](https://github.com/kasulajunio/ponto-de-ia) | Painel mobile-first para organizar tarefas, fontes, prompts e decisões |\n| [Lendas da Lua](https://github.com/kasulajunio/lendas-da-lua) | Aventura web brasileira com identidade própria |\n\n## Como eu trabalho\n\n```text\nIdeia → protótipo simples → teste no uso real → ajustes → documentação\n```\n\nPrefiro projetos bem resolvidos a promessas enormes: interface legível, funcionamento no celular, código compreensível e decisões documentadas.\n\n## Tecnologias e interesses\n\n`Python` · `HTML` · `CSS` · `JavaScript` · `Kotlin` · `Java` · `Termux` · `Android` · `IA aplicada` · `Segurança defensiva`\n\n---\n\n*Construindo em público, aprendendo com cada versão e mantendo a segurança como requisito, não enfeite.*\n
+'# Fabio7X
+
+Criador brasileiro de projetos **mobile-first**: ferramentas para Termux, documentação em português, produtos web leves e uso responsável de IA.
+
+> Construo coisas simples de abrir, claras de entender e honestas sobre seus limites.
+
+## Em foco
+
+- Ferramentas úteis para Android, Termux e web
+- Segurança defensiva e aprendizagem autorizada
+- Documentação prática em português
+- Produtos locais e experiências acessíveis pelo celular
+
+## Projetos em destaque
+
+- [Guia Hacking Ético](https://github.com/kasulajunio/guia-hacking-etico)
+  Curadoria defensiva em português, com fontes e material estruturado.
+
+- [Termux Dev Toolkit](https://github.com/kasulajunio/termux-dev-toolkit)
+  Scripts práticos para Termux e Linux. Use somente em dispositivos e redes autorizados.
+
+- [Coroa Viva](https://github.com/kasulajunio/coroa-viva)
+  Guia local em evolução para Coroa Vermelha e Porto Seguro.
+
+- [Ponto de IA](https://github.com/kasulajunio/ponto-de-ia)
+  Painel mobile-first para organizar tarefas, fontes, prompts e decisões de IA com privacidade.
+
+## Princípios
+
+- Mobile-first, sem exigir computador
+- Privacidade e transparência antes de promessa
+- Código e documentação claros
+- IA como ferramenta, nunca como enfeite
+
+## Perfil
+
+- GitHub: [@kasulajunio](https://github.com/kasulajunio)
+- Projetos em português do Brasil
+- Em evolução, com testes e documentação reais# Fabio7X\n\n> Projetos mobile-first, automação local e segurança aplicada, feitos para serem úteis de verdade.\n\nOlá, eu sou **Fabio**. Crio experiências digitais em português, com foco em interfaces diretas, soluções locais e aprendizado prático. Gosto de transformar ideias grandes em projetos que funcionam no celular, sem maquiagem técnica desnecessária.\n\n## Em construção\n\n| Área | Foco atual | Princípio |\n|---|---|---|\n| Segurança defensiva | Estudos, laboratórios e documentação de boas práticas | Somente em ambientes autorizados |\n| Automação mobile | Ferramentas locais para Android e Termux | Privacidade e controle do usuário |\n| IA aplicada | Organização, protótipos e fluxos assistidos por IA | Clareza antes de complexidade |\n| Jogos e experiências web | Projetos acessíveis em navegador e dispositivos móveis | Criar, testar, melhorar |\n\n## Segurança responsável\n\nEstou estruturando um **framework educacional de reconhecimento de superfície de ataque** para CTFs, laboratórios próprios e auditorias formalmente autorizadas. A proposta é estudar uma cadeia organizada de análise:\n\n```text\nEscopo autorizado\n      ↓\nDescoberta de ativos\n      ↓\nInventário de serviços\n      ↓\nAnálise de exposição\n      ↓\nRelatório e correção\n```\n\nO objetivo é converter dados técnicos em achados compreensíveis, priorizando evidências, relatórios estruturados e recomendações de correção. Não inclui exploração, brute force ou operação contra sistemas sem autorização explícita.\n\n**Princípios do projeto**\n\n- Escopo, permissão e limites definidos antes de qualquer teste\n- Arquitetura modular para estudo e evolução responsável\n- Saída estruturada em JSON para facilitar análise e relatórios\n- Logs claros, tratamento de erros e resultados reproduzíveis\n- Foco em redução de risco, não em causar impacto\n\n## Projetos em destaque\n\n| Projeto | O que é |\n|---|---|\n| [Guia de Hacking Ético](https://github.com/kasulajunio/guia-hacking-etico) | Curadoria em português de ferramentas e práticas de segurança defensiva |\n| [Laboratórios SQL Seguros](https://github.com/kasulajunio/laboratorios-sql-seguros) | Laboratórios didáticos voltados à prevenção de SQL Injection |\n| [Termux Dev Toolkit](https://github.com/kasulajunio/termux-dev-toolkit) | Scripts e automações para Termux e Linux, com documentação em português |\n| [Ponto de IA](https://github.com/kasulajunio/ponto-de-ia) | Painel mobile-first para organizar tarefas, fontes, prompts e decisões |\n| [Lendas da Lua](https://github.com/kasulajunio/lendas-da-lua) | Aventura web brasileira com identidade própria |\n\n## Como eu trabalho\n\n```text\nIdeia → protótipo simples → teste no uso real → ajustes → documentação\n```\n\nPrefiro projetos bem resolvidos a promessas enormes: interface legível, funcionamento no celular, código compreensível e decisões documentadas.\n\n## Tecnologias e interesses\n\n`Python` · `HTML` · `CSS` · `JavaScript` · `Kotlin` · `Java` · `Termux` · `Android` · `IA aplicada` · `Segurança defensiva`\n\n---\n\n*Construindo em público, aprendendo com cada versão e mantendo a segurança como requisito, não enfeite.*\n
