@@ -1,8 +1,19 @@
 # Fabio7X
 
-> Projetos mobile-first, Android, web e ferramentas em português.
+[![Abrir projetos e jogos](https://raw.githubusercontent.com/kasulajunio/kasulajunio/main/assets/mini-game-deck.svg)](https://github.com/kasulajunio?tab=repositories)
 
-Sou Fabio, criador de projetos práticos para celular: ferramentas locais, experiências web, documentação acessível e estudos de segurança defensiva. Meu foco é construir coisas claras, testáveis e honestas sobre o que fazem.
+> Projetos mobile-first, Android, web e jogos em português.
+
+Sou Fabio, criador de experiências para celular: minijogos de navegador, ferramentas locais, sites e documentação acessível. Meu foco é construir coisas claras, testáveis e boas de usar.
+
+## 🎮 Jogar agora
+
+| Jogo | Experiência |
+| --- | --- |
+| [🌙 Lendas da Lua](https://github.com/kasulajunio/lendas-da-lua) | Aventura web brasileira com identidade própria. |
+| [✋ Controle com a Mão](https://github.com/kasulajunio/controle-com-a-mao) | Jogo de navegador controlado por gestos. |
+| [🧱 Mundo Blocos Câmera](https://github.com/kasulajunio/mundo-blocos-camera) | Jogo de blocos pensado para celular e câmera. |
+| [🕹️ PlayGround](https://github.com/kasulajunio/PlayGround) | Laboratório de ideias, testes e experiências interativas. |
 
 ## Em foco
 
@@ -16,9 +27,8 @@ Sou Fabio, criador de projetos práticos para celular: ferramentas locais, exper
 | Projeto | Descrição |
 | --- | --- |
 | [Ponto de IA](https://github.com/kasulajunio/ponto-de-ia) | Painel mobile-first para organizar tarefas, fontes, prompts e decisões. |
-| [Lendas da Lua](https://github.com/kasulajunio/lendas-da-lua) | Aventura web brasileira com identidade própria. |
-| [Guia Hacking Ético](https://github.com/kasulajunio/guia-hacking-etico) | Curadoria de segurança defensiva em português. |
 | [Termux Dev Toolkit](https://github.com/kasulajunio/termux-dev-toolkit) | Scripts e utilitários para Termux e Linux. |
+| [Guia Hacking Ético](https://github.com/kasulajunio/guia-hacking-etico) | Curadoria de segurança defensiva em português. |
 | [Coroa Viva](https://github.com/kasulajunio/coroa-viva) | Guia local de Coroa Vermelha e Porto Seguro. |
 | [Brasil em Pauta Comunidade](https://github.com/kasulajunio/fris-black-comunidade) | Espaço público de sugestões para o portal da Fris Black Estúdio. |
 
