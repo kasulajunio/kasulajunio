@@ -1,0 +1,36 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='960' height='300' viewBox='0 0 960 300' role='img' aria-label='Fabio7X Mini Game Deck animado'>
+  <defs>
+    <linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'><stop stop-color='#0b141c'/><stop offset='1' stop-color='#162d35'/></linearGradient>
+    <linearGradient id='panel' x1='0' y1='0' x2='1' y2='1'><stop stop-color='#163640'/><stop offset='1' stop-color='#0d2028'/></linearGradient>
+    <filter id='glow'><feGaussianBlur stdDeviation='3' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter>
+    <pattern id='grid' width='32' height='32' patternUnits='userSpaceOnUse'><path d='M32 0H0V32' fill='none' stroke='#78d7cc' stroke-opacity='.09'/></pattern>
+  </defs>
+  <rect width='960' height='300' rx='18' fill='url(#bg)'/>
+  <rect width='960' height='300' rx='18' fill='url(#grid)'/>
+  <rect x='22' y='22' width='916' height='256' rx='14' fill='#0c1921' stroke='#4eb6af' stroke-opacity='.75' stroke-width='2'/>
+  <text x='48' y='52' fill='#9ce8dc' font-family='Arial, sans-serif' font-size='14' font-weight='700' letter-spacing='2'>FABIO7X  •  MINI GAME DECK</text>
+  <text x='48' y='83' fill='#789aa0' font-family='Arial, sans-serif' font-size='13'>JOGUE, EXPLORE E ACOMPANHE AS CRIAÇÕES</text>
+  <rect x='48' y='104' width='535' height='126' rx='10' fill='url(#panel)' stroke='#32636a'/>
+  <path d='M64 207H566' stroke='#8bc9c2' stroke-width='3'/>
+  <path d='M75 176H202V207H75zM310 146H445V207H310zM492 180H556V207H492z' fill='#285a61'/>
+  <path d='M75 176H202M310 146H445M492 180H556' stroke='#5bb3aa' stroke-width='3'/>
+  <g filter='url(#glow)'>
+    <path d='M411 111l10 12-10 12-10-12z' fill='#7ce0d4'>
+      <animateTransform attributeName='transform' type='translate' values='0 0;0 -7;0 0' dur='1.1s' repeatCount='indefinite'/>
+    </path>
+  </g>
+  <g>
+    <rect x='78' y='159' width='24' height='31' rx='5' fill='#f0b64e'/><rect x='83' y='166' width='14' height='6' rx='2' fill='#142b33'/><path d='M84 190v9m12-9v9' stroke='#a9e4da' stroke-width='5' stroke-linecap='round'/>
+    <animateTransform attributeName='transform' type='translate' values='0 0;190 0;315 -30;420 0;0 0' dur='4.2s' repeatCount='indefinite' calcMode='spline' keyTimes='0;.43;.63;.84;1' keySplines='.4 0 .2 1;.4 0 .2 1;.4 0 .2 1;.4 0 .2 1'/>
+  </g>
+  <circle cx='125' cy='120' r='5' fill='#edbd61' opacity='.1'><animate attributeName='opacity' values='.1;1;.1' dur='1.2s' repeatCount='indefinite'/></circle>
+  <circle cx='148' cy='133' r='3' fill='#7ce0d4' opacity='.2'><animate attributeName='opacity' values='.2;1;.2' dur='1.7s' repeatCount='indefinite'/></circle>
+  <rect x='612' y='104' width='282' height='126' rx='10' fill='#142d35' stroke='#32636a'/>
+  <text x='638' y='136' fill='#8ce2d7' font-family='Arial, sans-serif' font-size='13' font-weight='700' letter-spacing='1'>AGORA EM JOGO</text>
+  <text x='638' y='170' fill='#f1f7f6' font-family='Arial, sans-serif' font-size='27' font-weight='700'>Ideias viram</text>
+  <text x='638' y='200' fill='#f1f7f6' font-family='Arial, sans-serif' font-size='27' font-weight='700'>experiências.</text>
+  <circle cx='848' cy='129' r='6' fill='#f0b64e'><animate attributeName='r' values='5;9;5' dur='1s' repeatCount='indefinite'/><animate attributeName='opacity' values='.5;1;.5' dur='1s' repeatCount='indefinite'/></circle>
+  <text x='49' y='258' fill='#a8c3c3' font-family='Arial, sans-serif' font-size='14'>STATUS: ONLINE</text>
+  <circle cx='176' cy='253' r='5' fill='#68d6c6'><animate attributeName='opacity' values='.35;1;.35' dur='1s' repeatCount='indefinite'/></circle>
+  <text x='194' y='258' fill='#7e9c9f' font-family='Arial, sans-serif' font-size='14'>projetos independentes em evolução</text>
+</svg>
