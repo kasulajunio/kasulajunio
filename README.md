@@ -10,9 +10,9 @@ Sou Fabio, criador de experiências para celular: minijogos de navegador, ferram
 
 | Jogo | Experiência |
 | --- | --- |
+| [✋ Jogar Controle com a Mão](https://kasulajunio.github.io/controle-com-a-mao/) | Jogo de navegador controlado por gestos. |
+| [🧱 Jogar Mundo Blocos Câmera](https://kasulajunio.github.io/mundo-blocos-camera/) | Jogo de blocos pensado para celular e câmera. |
 | [🌙 Lendas da Lua](https://github.com/kasulajunio/lendas-da-lua) | Aventura web brasileira com identidade própria. |
-| [✋ Controle com a Mão](https://github.com/kasulajunio/controle-com-a-mao) | Jogo de navegador controlado por gestos. |
-| [🧱 Mundo Blocos Câmera](https://github.com/kasulajunio/mundo-blocos-camera) | Jogo de blocos pensado para celular e câmera. |
 | [🕹️ PlayGround](https://github.com/kasulajunio/PlayGround) | Laboratório de ideias, testes e experiências interativas. |
 
 ## Em foco
